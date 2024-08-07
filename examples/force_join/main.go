@@ -9,7 +9,7 @@ import (
 	"github.com/haashemi/tgo/routers/message"
 )
 
-// ID of the channel that we want force join bot users to ir
+// ID of the channel that we want force join bot users to it
 const channelID int64 = -1002145897099
 
 // bot's token must be passed by ./bot -token "my-awesome-token-here"
